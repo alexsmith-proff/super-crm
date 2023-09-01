@@ -1,0 +1,20 @@
+.btn {
+    background-color: #EBEEF6;
+    border-radius: 4px 0px 0px 4px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 140%;
+    color: #616C82;
+    padding: 2px 6px;
+    position: relative;
+    cursor: pointer;
+
+    &.hover {
+        background-color: #ebecf0;
+    }
+}
+.svg{
+    position: absolute;
+        top: 0px;
+        right: -10px;
+}

@@ -1,5 +1,43 @@
-.container{
-  max-width: 1350px;
+.container {
+  max-width: 1394px;
   margin: 0 auto;
-  padding: 0 10px;
+}
+
+ul,
+ol,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul,
+li {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  outline: none;
+  border: none;
+}
+
+button:active,
+button:focus {
+  outline: none;
+  border: 0;
 }

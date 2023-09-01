@@ -1,0 +1,36 @@
+.header {
+    margin-bottom: 8px;
+    padding: 0 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    color: #50B810;
+    font-weight: 600;
+    line-height: 140%;
+}
+
+.group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.addBtn {
+    margin-right: 8px;
+}
+
+.num {
+    width: 19px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 140%;
+    border-radius: 4px;
+    border: 1px solid #7B8AAB;
+}
